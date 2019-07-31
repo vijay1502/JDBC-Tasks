@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f114628f-9dd0-4099-a28b-08d009733eb4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/JdbcBatchProcessingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/JdbcBatchProcessingDemo.java" afterDir="false" />
     </list>
@@ -26,6 +25,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Documents/JDBC-Demo" />
   </component>
   <component name="RunDashboard">
@@ -71,6 +71,14 @@
       <option name="presentableId" value="Default" />
       <updated>1564568425463</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changes made in some Classes">
+      <created>1564593102121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564593102121</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +91,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes made in some Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes made in some Classes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

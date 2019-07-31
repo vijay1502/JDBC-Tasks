@@ -16,8 +16,8 @@ public class JdbcBatchProcessingDemo {
             Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/user", "root", "root");
             connection.setAutoCommit(false);
             Statement statement = connection.createStatement();
-            statement.addBatch("insert into details values('527gdt2','Ram',21,'male')");
-            statement.addBatch("insert into details values('25717hd','ADITYA',35,'male')");
+            statement.addBatch("INSERT INTO details values('527gdt2','Ram',21,'male')");
+            statement.addBatch("INSERT INTO details values('25717hd','ADITYA',35,'male')");
             statement.executeBatch();
             connection.commit();
             connection.close(); }
